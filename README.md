@@ -96,3 +96,7 @@ print(val_acc)  # acurácia
 ```
 
 O modelo é avaliado com os dados de teste para verificar sua performance, e a perda (loss) e a acurácia são impressas no console.
+
+## Link do funcionamento do modelo
+
+Link do vídeo: https://drive.google.com/file/d/1LltxMo-4qkjDpGZHy_KriViQ7BDHkwXi/view?usp=sharing
