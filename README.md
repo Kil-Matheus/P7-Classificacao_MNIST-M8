@@ -118,4 +118,4 @@ Nesta parte do código, são feitas predições utilizando o modelo treinado. Um
 
 ## Link do funcionamento do modelo
 
-Link do vídeo: https://drive.google.com/file/d/1LltxMo-4qkjDpGZHy_KriViQ7BDHkwXi/view?usp=sharing
+Link do vídeo: https://drive.google.com/file/d/1irGDJBz3zEPg9k0017-tUON9iRJuPAdx/view?usp=sharing
