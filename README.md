@@ -97,6 +97,25 @@ print(val_acc)  # acurácia
 
 O modelo é avaliado com os dados de teste para verificar sua performance, e a perda (loss) e a acurácia são impressas no console.
 
+## Predição
+
+```python
+# Realizando Predições
+prediction = model.predict(x_test)
+
+# Visualizando uma imagem de exemplo (neste caso, o número semelhante a 4)
+plt.imshow(x_test[6], cmap=plt.cm.binary)
+plt.show()
+
+# Tamanho da imagem
+x_test[6].shape
+
+# Resultado Final
+print(np.argmax(prediction[6]))
+```
+
+Nesta parte do código, são feitas predições utilizando o modelo treinado. Uma imagem de exemplo é visualizada, seu tamanho é exibido, e o resultado final da predição (número previsto) é impresso no console.
+
 ## Link do funcionamento do modelo
 
 Link do vídeo: https://drive.google.com/file/d/1LltxMo-4qkjDpGZHy_KriViQ7BDHkwXi/view?usp=sharing
